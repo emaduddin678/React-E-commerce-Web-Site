@@ -1,0 +1,22 @@
+.category-bg {
+  background: linear-gradient(180deg, #f3edc9 0%, rgba(255, 255, 255, 0) 100%);
+  width: 100%;
+  padding: 1px 0 27px 0 ;
+  
+}
+
+.all-category {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 33px;
+}
+
+.swiper-new {
+    padding: 15px 75px;
+}
+
+hr{
+    width: 1270px ;
+    margin: 0 auto;
+}
